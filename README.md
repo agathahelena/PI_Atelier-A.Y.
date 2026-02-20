@@ -1,16 +1,16 @@
-# Projeto Integrador - Modelo
-*(Coloque aqui o nome do seu projeto.)*
+# Atelier - A.Y 
 
-Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em Desenvolvimento de Sistemas para a Internet Integrado ao Ensino Médio do IFC - Campus Araquari.
-*(Coloque aqui uma breve descrição do seu projeto.)*
+Site para compra de trajes formais de diversas culturas predominantes em cada continente do planeta.
 
 **IMPORTANTE**: [**Cadastre seu projeto nesta planilha**](https://docs.google.com/spreadsheets/d/1bSb1-S9qOf46fNH8quyoFpcjcTuBMj_EdSPchOuFULY/edit?usp=sharing).
 
 Professor: [Marco André Mendes](github.com/marcoandre)
 
 Equipe:
-- [Aluno1](github.com/aluno1)
-- [Aluno2](github.com/aluno2)
+- [Agatha Helena Schmidt de Oliveira](https://github.com/agathahelena)
+- [Ana Laura Simonato](https://github.com/analaura3s)
+- [Andressa Steffen](https://github.com/AndressaSteffen26)
+- [Gabriela Heloisa Ramos](https://github.com/yuriramos223/yuriramos223)
 
 Links do projeto:
 (*Coloque aqui os links para a documentação do projeto e os repositórios e plubicação do backend e frontend.*)
