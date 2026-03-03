@@ -37,7 +37,7 @@ Links do projeto:
 
 **1.1 Modelos de Sistemas**
 
-**Nessa parte a equipe deve escolher um dos modelos de sistemas para desenvolver o projeto. Ao escolher, escreva uma breve descrição do sistema e o motivo da escolha e pode apagar os outros modelos.**
+Optamos pelo modelo de Pontos de Vendas (PDV) para o nosso site por ser planejado para uma loja de roupas. Nosso sistema precisa permitir que os clientes adicionem os produtos no carrinho de compras, favoritem produtos que desejem adquirir, cadastrem suas informações (endereço, nome, email…), escolham a categoria de roupas que vão olhar e acompanhem em tempo real o status da entrega dos seus pedidos.
 
 **1.1.1 Ponto de Vendas (PDV)**
 
