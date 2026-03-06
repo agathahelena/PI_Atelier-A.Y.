@@ -50,10 +50,6 @@ relatórios, como por exemplo, de vendas.
 
 # 2. Situação Problema
 
-*(Nessa parte a equipe deve descrever a situação problema que será resolvida pelo sistema. O texto abaixo descreve o que essa etapa deve conter e pode ser apagado depois.)*
-
-![Ciclo da Venda](docs/ciclo_da_venda.webp "Ciclo da Venda")
-
 Atelier - A.Y. Nossa empresa vende roupas pensando na diversidade, separando as peças por continentes. Existimos há 3 anos sendo os fundadores três mulheres e um homem, atualmente temos o total 6 funcionários. Projetamos o site para ampliar nossas vendas, por ser uma loja focada na diversidade e que contempla diversos países. Nosso objetivo é expandir o alcance das vendas, especialmente por sermos uma loja especializada em roupas que representam culturas dos diferentes continentes. Somos uma loja pequena com poucos funcionários e muitos clientes, então não é possível consultar de forma prática todos os pedidos e o ponto onde se encontram. O desenvolvimento de um site seria a forma ideal de alcançar não apenas o público local mas também consumidores de diferentes partes do mundo, permitindo que mais pessoas conheçam nossas peças. Nosso site irá facilitar nossos processos administrativos e o acompanhamento dos pedidos, assim diminuindo o risco de entregas atrasadas ou equívocos, além de auxiliar no fechamento da conta do mês. 
 
 Sabendo disso, seu papel é **detalhar o funcionamento da empresa escolhida na
