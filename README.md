@@ -50,21 +50,10 @@ relatórios, como por exemplo, de vendas.
 
 # 2. Situação Problema
 
-Atelier - A.Y. Nossa empresa vende roupas pensando na diversidade, separando as peças por continentes. Existimos há 3 anos sendo os fundadores três mulheres e um homem, atualmente temos o total 6 funcionários. Projetamos o site para ampliar nossas vendas, por ser uma loja focada na diversidade e que contempla diversos países. Nosso objetivo é expandir o alcance das vendas, especialmente por sermos uma loja especializada em roupas que representam culturas dos diferentes continentes. Somos uma loja pequena com poucos funcionários e muitos clientes, então não é possível consultar de forma prática todos os pedidos e o ponto onde se encontram. O desenvolvimento de um site seria a forma ideal de alcançar não apenas o público local mas também consumidores de diferentes partes do mundo, permitindo que mais pessoas conheçam nossas peças. Nosso site irá facilitar nossos processos administrativos e o acompanhamento dos pedidos, assim diminuindo o risco de entregas atrasadas ou equívocos, além de auxiliar no fechamento da conta do mês. 
-
-Sabendo disso, seu papel é **detalhar o funcionamento da empresa escolhida na
-atualidade, ou seja, antes de seu novo software**, usando como base a situação que passamos, mas aprofundando os detalhes de como as coisas acontecem.
-
--   Pesquise sobre empresas do ramo escolhido
-    para entender como funcionam;
--   Aproveite seus conhecimentos previamente adquiridos na área da empresa que escolheu, se houver;
--   Simule uma situação real. Lembre-se que são propostas com empresas fictícias, sendo assim, você terá que tomar certas decisões sobre como a empresa funciona em relação às coisas que não estão definidas no documento base (por exemplo, no caso da padaria, dizemos que seu Genival contratou mais funcionários, mas saber quantos e o que fazem pode ser relevante para o software), então tente “visualizar” a empresa funcionando, como se você estivesse lá acompanhando o dia-a-dia;
-
-Seguindo essas dicas, você deve ser capaz de descrever o dia-a-dia da empresa selecionada. E para ajudar na organização do texto, indicamos uma abordagem em 3 etapas:
-
--   **Introdução**: comece com um parágrafo apresentando a empresa (nome, o que faz, tempo de existência, o dono, funcionários, etc);
--   **Situação-problema**: Aborde em detalhes como a empresa funciona, procurando seguir uma ordem lógica dos acontecimentos e organizando parágrafos diferentes para cada coisa diferente que for explicar (como faria em uma redação);
--   **Conclusão**: tenha um parágrafo de conclusão focando nos problemas que você notou dentro da situação problema analisada e aponte brevemente como um software poderia ajudar a resolvê-los.
+ Atelier - A.Y.é uma loja de roupas de pequeno porte, composta por seis funcionários e administrada por quatro responsáveis. A loja local é pequena e funciona de segunda a sexta-feira, das oito horas da manhã às quatro horas da tarde, com intervalo para almoço das 12h às 13h.Sexta das oitos da manhã até às quatro da tarde com pausa das 12h às 13h.
+Ao final de cada dia a equipe faz  a conferência do caixa, a análise das vendas realizadas durante o dia, a verificação das peças mais vendidas e a conferência de possíveis faltas no estoque, além da organização e reposição das mercadorias.
+No final do mês é necessário realizar o cálculo do lucro. Atualmente, esse processo é feito por meio de anotações manuais, registradas à mão ao longo dos dias. Esse método torna a tarefa ainda mais complicada pois não há um sistema digital que auxilie na organização das informações. 
+Além disso, por atuar apenas de forma local e não possuir presença digital significativa, a loja ainda apresenta um alcance limitado de público. Dessa forma, torna-se importante pensar em estratégias e ferramentas que possam auxiliar na organização das vendas e ampliar a visibilidade do negócio.
 
 # 3. Descrição da proposta
 
