@@ -30,11 +30,6 @@ Links do projeto:
    - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 5. Edite o arquivo README.md com as informações do seu projeto.
 
-# 1. Desenvolvimento
-*(Escolha um dos modelos de sistemas para desenvolver o projeto. Apague as informações desnecessárias depois.)*
--   As equipes serão avaliadas por cada etapa da documentação e entregas realizadas.
--   Cada equipe deverá escolher um sistema para o desenvolvimento das atividades, a partir dos modelos apresentados.
-
 **1.1 Modelos de Sistemas**
 
 Optamos pelo modelo de Pontos de Vendas (PDV) para o nosso site por ser planejado para uma loja de roupas. Nosso sistema precisa permitir que os clientes adicionem os produtos no carrinho de compras, favoritem produtos que desejem adquirir, cadastrem suas informações (endereço, nome, email…), escolham a categoria de roupas que vão olhar e acompanhem em tempo real o status da entrega dos seus pedidos. Para os adm os pedidos serão cadastrados: Os que foram feitos, os que estão em entrega e os que foram entregues.
