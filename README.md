@@ -54,19 +54,11 @@ Além disso, por atuar apenas de forma local e não possuir presença digital si
 
 # 3. Descrição da proposta
 
-Após entender o problema, proponha uma solução que será útil nos aspectos de dificuldade encontrados. Assim, aqui você deverá **explicar de maneira resumida, e preferencialmente mais textual, como o software funcionará**. Pense nesse texto como uma **introdução ao seu cliente** do que você pretende fazer por ele, para que ele confirme se realmente está dentro do desejado e permita sua continuidade.
+O software terá como foco principal a venda de roupas online, além da administração de vendas e controle de estoque. Para os usuários comuns, o sistema permitirá visualizar as roupas disponíveis, realizar cadastro e login, favoritar produtos, efetuar compras e acompanhar o status de entrega dos pedidos. Já para os administradores, haverá uma área exclusiva onde será possível visualizar o total de vendas diárias e mensais, controlar a quantidade de produtos em estoque e gerenciar pedidos de reposição de roupas.
 
-**Alguns pontos importantes a se destacar são:**
+O sistema contará com dois níveis de usuário: o usuário (cliente) e o administrador (funcionários ou donos). Os usuários terão acesso apenas às funcionalidades relacionadas à navegação e compra de produtos, como visualização, favoritos, compras e acompanhamento de pedidos. Por outro lado, os administradores terão acesso a um painel completo de gerenciamento, incluindo relatórios de vendas, controle de estoque e gestão de pedidos.
 
--   **Qual o foco de ação do software** relacionado com os problemas levantados na análise da situação-problema. O que realmente o software vai fazer. Por exemplo, o foco de ação do Gmail é permitir o envio e recebimento de e-mails.
--   **Os níveis de usuário do sistema**. Somente o gestor tem acesso? E os funcionários? Talvez seja para ambos, ou para funcionários de cargos
-    diferentes, etc.
--   **O que poderá ser feito no software**.Apenas o principal, sem pensar em telas ou detalhes específicos, pois isso será feito em outro momento.
--   **Se houver mais de um nível de usuário**, ressaltar as diferenças entre eles na descrição da proposta.
-
-Tenha em mente que essa é uma etapa relativamente breve. Não é necessário um texto gigantesco, apenas dar uma noção do funcionamento do sistema. Mais adiante
-precisaremos ser bem detalhistas, todavia agora a intenção é apenas fazer algo que permita ao cliente nos dizer se estamos no caminho certo.
-
+De forma geral, o software permitirá o cadastro e autenticação de usuários, o armazenamento e gerenciamento de produtos, a criação de listas de favoritos, a realização de compras, o acompanhamento do status de entrega, além do controle de estoque, geração de relatórios de vendas e gestão de pedidos.
 # 4. Modelagem de Dados
 
 (*Nessa parte a equipe deve descrever a modelagem de dados que será implementada no sistema. O texto abaixo descreve o que essa etapa deve conter e pode ser apagado depois.*)
