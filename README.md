@@ -59,13 +59,10 @@ O software terá como foco principal a venda de roupas online, além da administ
 O sistema contará com dois níveis de usuário: o usuário (cliente) e o administrador (funcionários ou donos). Os usuários terão acesso apenas às funcionalidades relacionadas à navegação e compra de produtos, como visualização, favoritos, compras e acompanhamento de pedidos. Por outro lado, os administradores terão acesso a um painel completo de gerenciamento, incluindo relatórios de vendas, controle de estoque e gestão de pedidos.
 
 De forma geral, o software permitirá o cadastro e autenticação de usuários, o armazenamento e gerenciamento de produtos, a criação de listas de favoritos, a realização de compras, o acompanhamento do status de entrega, além do controle de estoque, geração de relatórios de vendas e gestão de pedidos.
+
 # 4. Modelagem de Dados
 
-(*Nessa parte a equipe deve descrever a modelagem de dados que será implementada no sistema. O texto abaixo descreve o que essa etapa deve conter e pode ser apagado depois.*)
-
-Defina as entidades e relacionamentos que farão parte do sistema. Desenhe o diagrama de entidade-relacionamento (DER) e descreva as entidades e relacionamentos que farão parte do sistema.
-
-
+Link para o arquivo da modelagem do banco de dados em PDF: https://drive.google.com/file/d/1CTL57nRGJr_YVTl5dvtzXviIj5L2jlgA/view?usp=sharing
 
 # 4. Regras de negócio
 - RN001.01 - Dados : Tamanho, cor, nome, preço, descrição, continente.
