@@ -44,6 +44,8 @@ De forma geral, o software permitirá o cadastro e autenticação de usuários, 
 
 Link para o arquivo da modelagem do banco de dados em PDF: https://drive.google.com/file/d/1CTL57nRGJr_YVTl5dvtzXviIj5L2jlgA/view?usp=sharing
 
+![Diagrama de Caso de Uso](img/modelagem-BD.png "Diagrama de Caso de Uso")
+
 # 4. Regras de negócio
 - RN001.01 - Dados : Tamanho, cor, nome, preço, descrição, continente.
 - RN002.01 - Dados : Nome, senha, cpf, email, telefone.
