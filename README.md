@@ -80,6 +80,8 @@ De forma geral, o software permitirá o cadastro e autenticação de usuários, 
 - RNF007 - O Frontend deve ser desenvolvido utilizando vue.js 
 - RNF008 - O backend deve ser desenvolvido em django
 
+  # FIZ ATÉ AQUI
+
 # 7. Diagrama de Caso de Uso
 
 **7.1 Introdução**
