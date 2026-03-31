@@ -42,8 +42,6 @@ De forma geral, o software permitirá o cadastro e autenticação de usuários, 
 
 # 4. Modelagem de Dados
 
-Link para o arquivo da modelagem do banco de dados em PDF: https://drive.google.com/file/d/1CTL57nRGJr_YVTl5dvtzXviIj5L2jlgA/view?usp=sharing
-
 ![Diagrama de Caso de Uso](img/dcu_modelagem.png "Diagrama de Caso de Uso")
 
 # 4. Regras de negócio
