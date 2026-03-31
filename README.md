@@ -17,33 +17,13 @@ Links do projeto:
 -   [Documentação (esse documento)](github.com/marcoandre/pi-modelo)
 -   Backend: [Repositório](https://github.com/Atelier-A-Y/BackEnd.git) e [Publicação](https://pi-backend.herokuapp.com/)
 -   Frontend: [Repositório](https://github.com/Atelier-A-Y/FrontEnd.git) e [Publicação](https://pi-frontend.herokuapp.com/)
-
-**Como usar esse modelo para o Projeto Integrador**
-
-*(Essa parte pode ser apagada depois.)*
-
-1. Faça um fork desse repositório para a sua conta do GitHub.
-2. Clone o repositório para o seu computador.
-3. Abra o arquivo README.md no seu editor de texto favorito (recomendamos o [Visual Studio Code](https://code.visualstudio.com/)).
-4. Tenha instaladas as seguintes extensões:
-   - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
-   - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
-5. Edite o arquivo README.md com as informações do seu projeto.
    
 # 1. Desenvolvimento 
 
-**1.1 Modelos de Sistemas**
+**1.1. Ponto de Vendas (PDV)**
 
 Optamos pelo modelo de Pontos de Vendas (PDV) para o nosso site por ser planejado para uma loja de roupas. Nosso sistema precisa permitir que os clientes adicionem os produtos no carrinho de compras, favoritem produtos que desejem adquirir, cadastrem suas informações (endereço, nome, email…), escolham a categoria de roupas que vão olhar e acompanhem em tempo real o status da entrega dos seus pedidos. Para os adm os pedidos serão cadastrados: Os que foram feitos, os que estão em entrega e os que foram entregues.
 
-**1.1.1 Ponto de Vendas (PDV)**
-
-**Gerenciamento de vendas para uma padaria**
-
-O nosso cliente, Sr. Genival, tem uma padaria de bairro chamada padaria Pão Genial e, devido a qualidade de seus produtos, ela está crescendo rapidamente. Recentemente, ele contratou mais funcionários para atendimento, caixa, panificação, etc.
-Assim, atualmente, ele consegue concentrar seus esforços para melhorar a gestão da padaria. Para isso, ele quer instalar um sistema de controle de vendas que permita ao caixa lançar as vendas realizadas. Como sua intenção
-é melhorar a gestão do negócio, é muito importante que ele consiga ter
-relatórios, como por exemplo, de vendas.
 
 # 2. Situação Problema
 
