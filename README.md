@@ -15,7 +15,7 @@ Equipe:
 Links do projeto:
 (*Coloque aqui os links para a documentação do projeto e os repositórios e plubicação do backend e frontend.*)
 -   [Documentação (esse documento)](github.com/marcoandre/pi-modelo)
--   Backend: [Repositório](https://github.com/Atelier-A-Y/BackEnd.git) e [Publicação](https://pi-backend.herokuapp.com/)
+-   Backend: [Repositório](https://github.com/Atelier-A-Y/Backend-Atelier.git) e [Publicação](https://pi-backend.herokuapp.com/)
 -   Frontend: [Repositório](https://github.com/Atelier-A-Y/FrontEnd.git) e [Publicação](https://pi-frontend.herokuapp.com/)
    
 # 1. Desenvolvimento 
