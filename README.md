@@ -27,7 +27,7 @@ Optamos pelo modelo de Pontos de Vendas (PDV) para o nosso site por ser planejad
 
 # 2. Situação Problema
 
- Atelier - A.Y.é uma loja de roupas de pequeno porte, composta por seis funcionários e administrada por quatro responsáveis. A loja local é pequena e funciona de segunda a sexta-feira, das oito horas da manhã às quatro horas da tarde, com intervalo para almoço das 12h às 13h.Sexta das oitos da manhã até às quatro da tarde com pausa das 12h às 13h.
+ Atelier - A.Y.é uma loja de roupas de pequeno porte, composta por seis funcionários e administrada por quatro responsáveis. A loja local é pequena e funciona de segunda a sexta-feira, das oito horas da manhã às quatro horas tarde, com intervalo para almoço das 12h às 13h.
 Ao final de cada dia a equipe faz  a conferência do caixa, a análise das vendas realizadas durante o dia, a verificação das peças mais vendidas e a conferência de possíveis faltas no estoque, além da organização e reposição das mercadorias.
 No final do mês é necessário realizar o cálculo do lucro. Atualmente, esse processo é feito por meio de anotações manuais, registradas à mão ao longo dos dias. Esse método torna a tarefa ainda mais complicada pois não há um sistema digital que auxilie na organização das informações. 
 Além disso, por atuar apenas de forma local e não possuir presença digital significativa, a loja ainda apresenta um alcance limitado de público. Dessa forma, torna-se importante pensar em estratégias e ferramentas que possam auxiliar na organização das vendas e ampliar a visibilidade do negócio.
@@ -35,8 +35,6 @@ Além disso, por atuar apenas de forma local e não possuir presença digital si
 # 3. Descrição da proposta
 
 O software terá como foco principal a venda de roupas online, além da administração de vendas e controle de estoque. Para os usuários comuns, o sistema permitirá visualizar as roupas disponíveis, realizar cadastro e login, favoritar produtos, efetuar compras e acompanhar o status de entrega dos pedidos. Já para os administradores, haverá uma área exclusiva onde será possível visualizar o total de vendas diárias e mensais, controlar a quantidade de produtos em estoque e gerenciar pedidos de reposição de roupas.
-
-O sistema contará com dois níveis de usuário: o usuário (cliente) e o administrador (funcionários ou donos). Os usuários terão acesso apenas às funcionalidades relacionadas à navegação e compra de produtos, como visualização, favoritos, compras e acompanhamento de pedidos. Por outro lado, os administradores terão acesso a um painel completo de gerenciamento, incluindo relatórios de vendas, controle de estoque e gestão de pedidos.
 
 De forma geral, o software permitirá o cadastro e autenticação de usuários, o armazenamento e gerenciamento de produtos, a criação de listas de favoritos, a realização de compras, o acompanhamento do status de entrega, além do controle de estoque, geração de relatórios de vendas e gestão de pedidos.
 
