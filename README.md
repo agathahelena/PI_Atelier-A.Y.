@@ -3,6 +3,7 @@
 Site para compra de trajes formais de diversas culturas predominantes em cada continente do planeta.
 
 **IMPORTANTE**: [**Cadastre seu projeto nesta planilha**](https://docs.google.com/spreadsheets/d/1bSb1-S9qOf46fNH8quyoFpcjcTuBMj_EdSPchOuFULY/edit?usp=sharing).
+**LOGIN**: Email: dudu@gmail.com; Senha: teste.123
 
 Professor: [Marco André Mendes](github.com/marcoandre)
 
